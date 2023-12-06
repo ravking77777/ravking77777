@@ -38,7 +38,7 @@
     
   ####  Other Project
   <br/>
-  <img src="https://i9.ytimg.com/vi/f7sTaOp76_w/maxresdefault.jpg?v=635ef9d6&sqp=CJTN8KgG&rs=AOn4CLCnvTpvjNFMl-ywj2GQVAJAHHEwFA" width="320">
+  <img src="https://cafeptthumb-phinf.pstatic.net/MjAyMzAxMTlfMjU3/MDAxNjc0MDc3NjU3NDQz.hNipS2Ne3NvCW_8HbmWrbcAu7xEwmdJMrDzcHVFygW8g.DeA-Zz_sPjzQ_PPj7nHDhu_H8P0pESb4cQca-1G-Oy4g.GIF/%EB%87%8C%EC%A0%88%ED%8F%AC.gif?type=w1600" width="320">
   <br/>
   <a href="https://www.youtube.com/watch?v=DWm6ppS_neE" target="_blank"><img src="https://img.shields.io/badge/Youtube-CD2640?style=for-the-badge&logo=youtube&logoColor=white">
   <br/>
