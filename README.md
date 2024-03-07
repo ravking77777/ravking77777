@@ -42,7 +42,7 @@
   <br/>
   <a href="https://www.youtube.com/watch?v=DWm6ppS_neE" target="_blank"><img src="https://img.shields.io/badge/Youtube-CD2640?style=for-the-badge&logo=youtube&logoColor=white">
   <br/>
-  <img src="https://i9.ytimg.com/vi_webp/Q-wNL15Hn_I/sddefault.webp?v=648b2cd3&sqp=COzR8KgG&rs=AOn4CLA0YWHM4p7w5ygeZ7hE8ZNAtdaEkg" width="320">
+  <img src="[https://i9.ytimg.com/vi_webp/Q-wNL15Hn_I/sddefault.webp?v=648b2cd3&sqp=COzR8KgG&rs=AOn4CLA0YWHM4p7w5ygeZ7hE8ZNAtdaEkg](https://bicfest.org/up/showroom/aef0b2545bf350e9333402a5c8a13c001689269711.jpg)" width="320">
   <br/>
   <a href="https://youtu.be/Q-wNL15Hn_I" target="_blank"><img src="https://img.shields.io/badge/Youtube-CD2640?style=for-the-badge&logo=youtube&logoColor=white">
 
